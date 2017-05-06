@@ -6,7 +6,7 @@ This repository contains our first team app project developed with AngularJS.  O
 
 The app was coded  with the text editor [Sublime Text 3](https://www.sublimetext.com/)
 
-[![image1](images/capture2.jpg)](https://joseangelbarrera.github.io/leagueOfComics/#/)
+[![image1](images/capture2.jpg)](https://misan7.github.io/league-of-comics-app/)
 
 ## Comming soon...
 
@@ -17,18 +17,23 @@ Order by date, alphabetical, etc.
 ## Authors
 
 [Jose Ángel](https://github.com/joseangelbarrera)
+
 [Sergio](https://github.com/misan7)
+
 [Yair](https://github.com/Riay)
 
 
 ## Acknowledgments
 
 [Skylab Coders](http://www.skylabcoders.com/en)
+
 [JuanMa Garrido](https://github.com/juanmaguitar)
+
 [Alejandro DG](https://github.com/agandia9)
+
 [Ignasi Amargós](https://github.com/Iggy-Codes)
 
-[![image1](images/capture1.jpg)](https://joseangelbarrera.github.io/leagueOfComics/#/)
+[![image1](images/capture1.jpg)](https://misan7.github.io/league-of-comics-app/)
 
-Link to our app [here](https://joseangelbarrera.github.io/leagueOfComics/#/)!
+Link to our app [here](https://misan7.github.io/league-of-comics-app/)!
 
